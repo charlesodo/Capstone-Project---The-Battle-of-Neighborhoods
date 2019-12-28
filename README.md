@@ -12,7 +12,7 @@ In order to answer the above questions, data on New York City neighborhoods, bor
 
 New York City data containing the neighborhoods and boroughs, latitudes, and longitudes will be obtained from the data source: https://cocl.us/new_york_dataset
 
-All data related to locations and quality of Italian restaurants will be obtained via the FourSquare API utilized via the Request library in Python.
+All data related to locations and quality of Japanese restaurants will be obtained via the FourSquare API utilized via the Request library in Python.
 
 # Methodology
 • Data will be collected from https://cocl.us/new_york_dataset and cleaned and processed into a dataframe.
