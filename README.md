@@ -21,7 +21,7 @@ All data related to locations and quality of Japanese restaurants will be obtain
 
 • Data will be sorted based on rankings.
 
-• Finally, the data be will be visually assessed using graphing from Python libraries.
+• Finally, the data will be visually assessed using graphing from Python libraries.
 
 # Problem Statement
 What is / are the best location(s) for Japanese cuisine in New York City?
